@@ -21,9 +21,9 @@
     <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a>
     <br />
     <br />
-    <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a>
+    <a href="#">Firdhan Vandaru Wibisana</a>
     ·
-    <a href="https://github.com/maulidandev">Maulidan Nashuha</a>
+    <a href="#">Nisa Solihat</a>
   </p>
 </div>
 
@@ -38,8 +38,6 @@
 - RSVP with issue API
 - Music from youtube API
 
-<!-- The wedding -->
-## Maulidan Nashuha <img src="images/readme/man.png" width="30px">
 
 
 

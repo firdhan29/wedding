@@ -18,7 +18,7 @@
   <p align="center">
     <strong>Firdhan & Nisa</strong>
     <br />
-    <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a>
+    <a href="https://www.projectkita.my.id/">Explore the Invitation ! »</a>
     <br />
     <br />
     <a href="#">Firdhan Vandaru Wibisana</a>
